@@ -1,1 +1,11 @@
-Replace this with a list of your favorite things.
+unordered list
+- eat food
+* with cat
+_______________
+Checkbox
+- [x] no
+- [ ] yes
+_______________
+ordered list 
+- This
+~ that
